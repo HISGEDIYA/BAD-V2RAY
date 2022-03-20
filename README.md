@@ -26,7 +26,7 @@ Manage Script
 
 2)sudo reboot (update එකෙන් පසු restart කිරීමට)
 
-4)sudo git clone https://github.com/iamtrazy/bash-xray-script
+4)sudo git clone https://github.com/HISGEDIYA/BAD-V2RAY
 
 5)cd bash-xray-script
 
